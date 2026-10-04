@@ -1,0 +1,27 @@
+# Keil 编译产物
+/Listings/
+/Objects/
+
+# Keil 用户特定配置（含本机用户名和路径）
+*.uvguix.*
+*.uvoptx
+/DebugConfig/
+/RTE/
+
+# 编译日志与临时文件
+*.build_log.htm
+*.dep
+*.crf
+*.d
+*.o
+*.axf
+*.sct
+*.lnp
+*.iex
+*.lst
+*.map
+
+# 系统垃圾文件
+Thumbs.db
+.DS_Store
+desktop.ini
