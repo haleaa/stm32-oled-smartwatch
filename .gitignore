@@ -25,3 +25,7 @@
 Thumbs.db
 .DS_Store
 desktop.ini
+
+# Android 签名文件（任何情况下都不要提交）
+*.keystore
+*.jks
